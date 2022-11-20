@@ -1,0 +1,20 @@
+{
+"имя" : "tets3" ,     
+"версия" : "1.0.0" ,     
+"описание" : "" ,     
+"скриптов" : {     
+"build" : "echo \"Не указана сборка\" && exit 1" ,         
+"тест" : "эхо \"Не указан тест\" && выход 1" ,         
+"старт" : "узел index.js"         
+} ,    
+"хранилище" : {     
+"тип" : "git" ,         
+"url" : "git+https://github.com/BaDtEsTiNGG/tets3.git"         
+} ,    
+"автор" : "" ,     
+"лицензия" : "ISC" ,     
+"багов" : {     
+"URL" : "https://github.com/BaDtEsTiNGG/tets3/issues"         
+} ,    
+"домашняя страница" : "https://github.com/BaDtEsTiNGG/tets3#readme"     
+}
