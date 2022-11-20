@@ -1,21 +1,22 @@
 {
-"имя" : "tets3" ,     
-"версия" : "1.0.0" ,     
-"описание" : "" ,     
-"скриптов" : {     
-"build" : "echo \"Не указана сборка\" && exit 1" ,         
-"тест" : "эхо \"Не указан тест\" && выход 1" ,         
-"старт" : "узел index.js"      
-} ,    
-"хранилище" : {     
-"тип" : "git" ,         
-"url" : "git+https://github.com/BaDtEsTiNGG/tets3.git"         
-} ,    
-"автор" : "" ,     
-"лицензия" : "ISC" ,     
-"багов" : {     
-"URL" : "https://github.com/BaDtEsTiNGG/tets3/issues"         
-} ,    
-"домашняя страница" : "https://github.com/BaDtEsTiNGG/tets3#readme"     
+  "name": "starter-express-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyclic-software/starter-express-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyclic-software/starter-express-api/issues"
+  },
+  "homepage": "https://github.com/cyclic-software/starter-express-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
-
